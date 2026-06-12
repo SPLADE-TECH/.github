@@ -25,10 +25,34 @@ We pick our engineering tools meticulously to guarantee velocity, security, and 
 ⚙️ DEVOP/AI   ►   AWS • Docker • GitHub Actions • LangChain • OpenAI/Ollama API
 ```
 
-📬 Initiate Your Project Consultation
+---
+
+## 📬 Initiate Your Project Consultation
+
 Ready to scale your business operations or launch your next product? Let's engineer something remarkable together.
-🌐 Official Website: spladetech.com
-💼 Business Inquiries: spladetech@gmail.com
+
+<p align="left">
+  <a href="https://spladetech.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-spladetech.com-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://wa.me/message/IE3EHGNNP" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.instagram.com/spladetech" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/share/1JH5fSPJYe/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://x.com/SPLADETECH" target="_blank">
+    <img src="https://img.shields.io/badge/X%20__%20Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter">
+  </a>
+</p>
+
+* 💼 **Business Inquiries:** `spladetech@gmail.com`
+
+---
+
 <p align="center">
-<b>Built by Engineers. Driven by Innovation. © SPLADE TECH</b>
+  <b>Built by Engineers. Driven by Innovation. © SPLADE TECH</b>
 </p>
