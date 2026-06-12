@@ -23,9 +23,3 @@ We pick our engineering tools meticulously to guarantee velocity, security, and 
 ⚙️ DATABASES  ►   PostgreSQL • MongoDB • Redis • Firebase 
 ⚙️ MOBILE     ►   Flutter • Kotlin (Native Android Development)
 ⚙️ DEVOP/AI   ►   AWS • Docker • GitHub Actions • LangChain • OpenAI/Ollama API
-
-🌐 Official Website: spladetech.com
-💼 Business Inquiries: spladetech@gmail.com
-<p align="center">
-<b>Built by Engineers. Driven by Innovation. © SPLADE TECH</b>
-</p>
